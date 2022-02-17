@@ -1,0 +1,9 @@
+/* 헤더 */
+.header {
+    width: 100%;
+    padding: 3rem;
+}
+.header .nav {
+    display: flex;
+    justify-content: space-between;
+}
